@@ -1,4 +1,4 @@
-# # Craigslist_Vehicles_Study
+# Craigslist_Vehicles_Study
 ## About The Project
 
 [\* This was an academic project]
