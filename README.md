@@ -19,7 +19,7 @@ To answer those questions, by using used car trading information from Craigslist
 
 The raw data from Craigslist contains 677812 rows and 20 columns, which include qualitative factors: URL, city, manufacturer, make, condition, cylinders, fuel, title status, transmission, VIN, drive, size, type, paint color, image; and quantitative factors: year, odometer, latitude and longitude. Details of the data are shown in the table below.
 
-https://github.com/Runtao-Xue/Craigslist_Vehicles_Study/blob/main/Basic%20info%20of%20the%20raw%20data.PNG
+![Basic info of the raw data](https://github.com/Runtao-Xue/Craigslist_Vehicles_Study/blob/main/Basic%20info%20of%20the%20raw%20data.PNG)
 
 ## Contact
 
